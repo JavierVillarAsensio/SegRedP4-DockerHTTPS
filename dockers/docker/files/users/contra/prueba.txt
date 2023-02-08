@@ -1,0 +1,4 @@
+{"prueba": {
+    "texto": "este archivo es un prueba",
+    "args": "con dos argumentos"}
+    }
